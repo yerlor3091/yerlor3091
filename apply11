@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!-- This website template was created by: Yer Lor, October 10, 2019 -->
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="css/apply11styles.css">
+	<title>Credit</title>
+	<meta charset="utf-8">
+	<meta name="description" content="This website provides helpful information about how to build good credit.">
+	
+	</head>
+	
+<body>
+
+	<div id="container">
+	
+	<!-- Use this area for the website name or logo -->
+	<header>
+		How to Build Good Credit
+	</header>
+	
+<!-- Use the main area to add the main content of the webpage -->	
+	<main>
+	<p> To build good credit, it starts with managing your money. 
+	Money management is the process of budgeting, saving, investing, 
+	spending, or otherwise overseeing the capital usage of an individual 
+	or group. There are different ways to build credit as well once you 
+	have control of your money management.
+	</p>
+	
+	<ul>
+		<li>Open a credit card (secured credit card or co-sign cards)</li>
+		<li>Build credit without credit care (utitilies to build credit)</li>
+		<li>Develop good credit habits by paying off debt</li>
+		</main>
+		
+		<!-- Use the footer area to add webpage footer content -->
+		<footer>
+		<p>Created by Yer Lor</p>
+		</footer>
+	
+	</div>
+</body>
+</html>
